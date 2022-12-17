@@ -1,0 +1,34 @@
+/*upper bar*/
+.upper-bar .header{
+border-bottom: 1px dotted gray;
+}
+/*start middle bar*/
+.header h2{
+    font-weight: bolder;
+}
+.homing{
+    color: crimson;
+    font-weight: bold;
+}
+/*start nav*/
+.navbar a {
+    border-right: 1px dotted red;
+}
+.navbar-expand-lg .navbar-collapse{
+    padding: 1px;
+}
+.btn-group{
+    margin-top: 75px;
+}
+.btn-group > .btn{
+    background-color: darkgrey;
+    color: dimgrey;
+}
+/*card three*/
+.card-title{
+    background-color: rgba(16, 18, 20, 0.258);
+    color: aliceblue;
+}
+.card-body{
+    color: rgb(169, 169, 169);
+}
